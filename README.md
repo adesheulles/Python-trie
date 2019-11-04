@@ -17,7 +17,7 @@ Les programmes permettent de trier une liste de nombres.
 
 # Tri :
 
-  ![Capture.png](https://https://github.com/adesheulles/Python-trie/blob/master/tri%20.PNG)
+  ![Capture.png](https://github.com/adesheulles/Python-trie/blob/master/tri%20.PNG)
 
 # Tri bulles :
 
