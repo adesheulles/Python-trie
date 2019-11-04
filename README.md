@@ -1,5 +1,5 @@
 # Python-trie
-Ces programmes permet de trié une liste de nombres.
+Ces programmes permet de trier une liste de nombres.
  
  Les outils mis en oeuvre :
  * python
@@ -13,7 +13,7 @@ Ces programmes permet de trié une liste de nombres.
 |Création de la liste|python||
 |Trie de la liste|python||
 
-Les programme permette de trier une liste de nombre.
+Les programmes permettent de trier une liste de nombres.
 
 # Tri :
 
